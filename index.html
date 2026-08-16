@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Jeopardy</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Anton&family=PT+Serif:wght@700&family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+     <link rel="stylesheet" href="assets/styles.css">
+</head>
+
+<body>
+     <div class="app">
+          <header class="controls">
+               <div class="logo-block">
+                    <h1 class="logo">Jeopardy!</h1>
+                    <p class="active-game-name" id="active-game-name"></p>
+               </div>
+               <div class="controls-right">
+                    <button type="button" id="new-game-btn" class="btn">New Game</button>
+               </div>
+          </header>
+          <div class="board-frame">
+               <div class="pillar pillar-left"></div>
+               <main id="board" class="board"></main>
+               <div class="pillar pillar-right"></div>
+          </div>
+     </div>
+
+     <div id="clue-overlay" class="clue-overlay">
+          <div class="clue-text" id="clue-text"></div>
+          <div class="clue-hint" id="clue-hint"></div>
+     </div>
+
+     <div id="picker-modal" class="modal-scrim hidden">
+          <div class="modal-card" id="picker-card"></div>
+     </div>
+     <input type="file" id="csv-input" accept=".csv" class="visually-hidden">
+
+     <script src="assets/scripts.js"></script>
+</body>
+
+</html>

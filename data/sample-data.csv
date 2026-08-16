@@ -1,0 +1,31 @@
+category,value,question,answer
+US Presidents,200,This man was the first President of the United States,Who is George Washington?
+US Presidents,400,This President purchased the Louisiana Territory from France in 1803,Who is Thomas Jefferson?
+US Presidents,600,This President delivered the Gettysburg Address in 1863,Who is Abraham Lincoln?
+US Presidents,800,This President served four terms and led the US through the Great Depression and WWII,Who is Franklin D. Roosevelt?
+US Presidents,1000,This President resigned from office in 1974 following the Watergate scandal,Who is Richard Nixon?
+World Capitals,200,This city is the capital of France,What is Paris?
+World Capitals,400,This capital city sits on two continents,What is Istanbul?
+World Capitals,600,This African capital shares its name with the country it governs,What is Algiers?
+World Capitals,800,This South American capital is the highest administrative capital in the world at over 11000 feet,What is La Paz?
+World Capitals,1000,"This capital, founded in 1792, was named for a Founding Father and is not located in any US state",What is Washington D.C.?
+Science,200,This is the chemical symbol for gold,What is Au?
+Science,400,This force pulls objects toward the center of the Earth,What is gravity?
+Science,600,This is the powerhouse of the cell,What is the mitochondria?
+Science,800,This element has the atomic number 1 and is the most abundant in the universe,What is hydrogen?
+Science,1000,This physicist developed the theory of general relativity in 1915,Who is Albert Einstein?
+Movies,200,This 1997 film about a doomed ocean liner starred Leonardo DiCaprio and Kate Winslet,What is Titanic?
+Movies,400,This 1972 film tells the story of the Corleone crime family,What is The Godfather?
+Movies,600,"This studio, founded by two brothers in 1923, produced Snow White and the Seven Dwarfs",What is Disney?
+Movies,800,This trilogy follows a hobbit named Frodo on a quest to destroy a powerful ring,What is The Lord of the Rings?
+Movies,1000,"This director, known for Jaws and E.T., also directed Schindler's List",Who is Steven Spielberg?
+Literature,200,This playwright wrote Romeo and Juliet,Who is William Shakespeare?
+Literature,400,This novel by Harper Lee features lawyer Atticus Finch,What is To Kill a Mockingbird?
+Literature,600,This author wrote 1984 and Animal Farm,Who is George Orwell?
+Literature,800,This epic poem by Homer follows Odysseus on his journey home,What is The Odyssey?
+Literature,1000,"This Russian author wrote War and Peace and Anna Karenina",Who is Leo Tolstoy?
+Math,200,This is the value of pi rounded to two decimal places,What is 3.14?
+Math,400,This is the term for a number that can only be divided evenly by 1 and itself,What is a prime number?
+Math,600,This theorem relates the sides of a right triangle: a squared plus b squared equals c squared,What is the Pythagorean theorem?
+Math,800,This is the term for the longest side of a right triangle,What is the hypotenuse?
+Math,1000,"This branch of mathematics, developed by Newton and Leibniz, studies rates of change",What is calculus?
